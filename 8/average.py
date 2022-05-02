@@ -1,0 +1,5 @@
+a=input("enter three numbers")
+b=input()
+c=input()
+average = ((int(a)+int(b)+int(c))/3)
+print(average)
